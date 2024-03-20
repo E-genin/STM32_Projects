@@ -1,0 +1,3 @@
+../Src/Init.c:12:6:Write_Values_In_Register	1
+../Src/Init.c:21:6:McuInit	3
+../Src/Init.c:71:6:Mco1Init	1
