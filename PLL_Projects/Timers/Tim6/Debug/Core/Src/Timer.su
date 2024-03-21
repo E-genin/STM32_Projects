@@ -1,0 +1,8 @@
+../Core/Src/Timer.c:16:6:Write_Values_In_Register	32	static
+../Core/Src/Timer.c:25:6:McuInit	8	static
+../Core/Src/Timer.c:69:6:Init_Timer6	8	static
+../Core/Src/Timer.c:82:6:Start_Timer6	8	static
+../Core/Src/Timer.c:88:9:Get_Timer6_Status	16	static
+../Core/Src/Timer.c:97:6:delay_1ms	8	static
+../Core/Src/Timer.c:111:6:LED1_Configure	8	static
+../Core/Src/Timer.c:123:6:LED1_Toggle	16	static
